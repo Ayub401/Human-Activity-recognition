@@ -27,5 +27,6 @@ The data set have colected from 30 person through the mobile sensor. Few feature
 5.	body_acceleration_magnitude
 6.	gravity_acceleration_magnitude
 
-![a](https://user-images.githubusercontent.com/86202682/176249558-688613b2-2265-460e-81d6-c67f2b5cb567.PNG)
+![image](https://user-images.githubusercontent.com/86202682/177007942-f1880ace-5c4c-451a-9ade-8d24ab3bfb17.png)
+
 
