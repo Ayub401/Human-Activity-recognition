@@ -27,6 +27,8 @@ The data set have colected from 30 person through the mobile sensor. Few feature
 5.	body_acceleration_magnitude
 6.	gravity_acceleration_magnitude
 
+### The accuracy of different ML model is shown below.
+
 ![image](https://user-images.githubusercontent.com/86202682/177007942-f1880ace-5c4c-451a-9ade-8d24ab3bfb17.png)
 
 
