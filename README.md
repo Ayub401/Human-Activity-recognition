@@ -1,5 +1,6 @@
 # Human-Activity-recognition
 In the project i have tried to build and ML and DL model to classify the activity perform by human. The activity mainly related to indoor activity such as walking, talking, standing, and sitting.
+For the classification purpose i have used multiple ML algorithm and have compared thier performace parameter to select the best model. Moreover i have used LSTM while doing the same classification using Deep Learning. It would be a suprise to see the potential of the Deep Learning with just few hidden layers.
 ![a](https://user-images.githubusercontent.com/86202682/176245759-97b7c867-a401-42c3-a5e5-498394c4bb4d.PNG)
 
 Application of human activity recognition.
